@@ -1,0 +1,33 @@
+<svg id="face">
+  <image href="images/background.jpeg" />
+  <svg x = "0%">
+    <svg>
+      <text x = "10" id="Hours" class="clock" y = "120">
+      </text>
+    </svg>
+    <svg>
+      <text x = "10" id="Minutes" class="clock" y = "260">
+      </text>
+    </svg>
+  </svg>
+  <svg x = "50%">
+    <svg y = "-30%">
+      <image href="images/steps.png" class="logo step"/>
+      <text text-length="32" id = "mySteps" class="metric">
+      </text>
+    </svg>
+    <svg y = "-30%+60">
+      <image href="images/heart_solid.png" class="logo heart"/>
+      <text id = "myHeart" class="metric">
+      </text>
+    </svg>
+    <svg y = "-30%+120">
+      <image href="images/calories.png" class="logo flame"/>
+      <text text-length="32" id = "myCalories" class="metric" pointer-events="visible">
+      </text>
+    <svg y = "-30%+160">
+      <text text-length="32" id = "myDate" class="date">
+      </text>
+    </svg>
+   </svg>
+</svg>
