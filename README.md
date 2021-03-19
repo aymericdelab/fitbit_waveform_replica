@@ -2,6 +2,7 @@
 The goal of this project is to recreate the default clock made available on my fitbit versa 2.
 This clock, also called Waveform is made by Fitbit and available by default on all the sense, versa 2 and versa 3 models. 
 The clock shows the hours, minutes and date. But also the number of steps, calories and the current heart rate.
+
 Here you can see the original clock on the top and the replica that I made on the bottom. Quite similar but not perfect.
 
 ![waveform](https://github.com/aymericdelab/fitbit_waveform_replica/blob/main/screenshots/Screen%20Shot%202021-03-19%20at%209.58.35%20AM.png?raw=true)
@@ -30,6 +31,7 @@ To retrieve the background I first tried to do a reverse google image search usi
 But none of them really matched what I was looking for.
 
 ![search2](https://github.com/aymericdelab/fitbit_waveform_replica/blob/main/screenshots/Screen%20Shot%202021-03-19%20at%2010.30.11%20AM.png?raw=true)
+
 After further searching for a solution, I ended up on this website: https://theinpaint.com/
 It lets you upload an image of your choice and "photoshop" the elements you don't want out of the picture. You just need to select the part of the image you want to remove and the tool infers the value of the pixel based on the values of the pixels around it. I was honestly quite impressed by how it turned out.
 
