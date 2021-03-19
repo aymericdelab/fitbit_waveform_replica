@@ -2,6 +2,7 @@
 The goal of this project is to recreate the default clock made available on my fitbit versa 2.
 This clock, also called Waveform is made by Fitbit and available by default on all the sense, versa 2 and versa 3 models. 
 The clock shows the hours, minutes and date. But also the number of steps, calories and the current heart rate.
+![waveform](https://github.com/aymericdelab/fitbit_waveform_replica/blob/main/screenshots/Screen%20Shot%202021-03-19%20at%209.58.35%20AM.png?raw=true)
 
 ## FITBIT SDK
 To fitbit sdk allows you to create apps and clocks using Javascript, CSS and SVG.
